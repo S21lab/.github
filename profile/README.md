@@ -24,13 +24,12 @@ Currently supporting **5 active projects** across various industries.
 
 Meet the **5 developers** driving these innovations.
 
-| Developer             | Role              | Focus Areas                         | Profile                                           |
-| --------------------- | ----------------- | ----------------------------------- | ------------------------------------------------- |
-| **Karimov Samandar**  | Security / DevOps | Red Teaming, Backend, SysAdmin      | [🔗 Github](https://github.com/voidrc)            |
-| **Go'zal**            | Lead Frontend     | React, UI/UX, Design Systems        | [🔗 Github](https://github.com/gozal1)            |
-| **Mirzayeva Nafisa**  | BSA               | Business Analysis, Connections      | [🔗 Profile](https://www.google.com/search?q=%23) |
-| **Saida'zamov Husan** | Mobile / Devops   | Mobile Development, Docker, backend | [🔗 Profile](https://github.com/HusanSaidazamov)  |
-| **[Dev Name 5]**      | Fullstack Dev     | Next.js, TypeScript, Node           | [🔗 Profile](https://www.google.com/search?q=%23) |
+| Developer            | Role              | Focus Areas                    | Profile                                           |
+| -------------------- | ----------------- | ------------------------------ | ------------------------------------------------- |
+| **Karimov Samandar** | Security / DevOps | Red Teaming, Backend, SysAdmin | [🔗 Github](https://github.com/voidrc)            |
+| **Go'zal**           | Lead Frontend     | React, UI/UX, Design Systems   | [🔗 Github](https://github.com/gozal1)            |
+| **Mirzayeva Nafisa** | BSA               | Business Analysis, Connections | [🔗 Profile](https://www.google.com/search?q=%23) |
+| **[Dev Name]**       | Fullstack Dev     | Next.js, TypeScript, Node      | [🔗 Profile](https://www.google.com/search?q=%23) |
 
 ---
 
@@ -40,4 +39,3 @@ Are you a student, investor, or mentor looking to get involved?
 
 - **Organization Email:** [admin@youruniversity-startups.com]
 - **Internal Chat:** [Link to Discord/Slack]
-- **Office Hours:** [Day/Time] at [University Building/Room]
